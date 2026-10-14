@@ -88,7 +88,7 @@
     "moment": "^2.8.0",
     "ms-rest": "^1.12.0",
     "ms-rest-azure": "^1.12.0",
-    "node-forge": "0.6.23",
+    "node-forge": "1.4.0",
     "node-uuid": "1.2.0",
     "omelette": "0.1.0",
     "openssl-wrapper": "0.2.1",
